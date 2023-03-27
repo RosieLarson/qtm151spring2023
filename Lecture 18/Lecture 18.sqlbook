@@ -85,7 +85,10 @@ Try it yourself!
 -- SQLBook: Code
 # Write your own code
 
-
+CREATE TABLE bills_subjects (
+    bill_number int,
+    
+);
 
 -- SQLBook: Markup
 # <span style="color:darkblue"> II. Import CSV into SQL </span>
